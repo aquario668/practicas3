@@ -113,9 +113,9 @@ a span:nth-child(4){
     }
 }
   </style>
-  <a href="propuesto21.html">propuesto 21 </a>
-   <a href="propuesto23.html">propuesto 23 </a>
-    <a href="propuesto24.html">propuesto 24 </a>
-     <a href="propuesto27.html">propuesto 27 </a>
+  <a href="propuesto21.html" tareget="_blank">propuesto 21 </a>
+   <a href="propuesto23.html" tareget="_blank">propuesto 23 </a>
+    <a href="propuesto24.html" tareget="_blank">propuesto 24 </a>
+     <a href="propuesto27.html" tareget="_blank">propuesto 27 </a>
   
   
